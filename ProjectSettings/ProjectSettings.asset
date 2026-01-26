@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 28
-  productGUID: db2eb86fe86371d4b84e41d127e90120
+  productGUID: 5c3cf9c1f27d3e747bb8014ac48df7c1
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -1018,7 +1018,7 @@ PlayerSettings:
   syncCapabilities: 0
   platformCapabilities:
     WindowsStoreApps:
-      CodeGeneration: False
+      EnterpriseAuthentication: False
       OfflineMapsManagement: False
       HumanInterfaceDevice: False
       Location: False
@@ -1053,8 +1053,8 @@ PlayerSettings:
       Contacts: False
       Proximity: False
       InternetClient: True
+      CodeGeneration: False
       BackgroundMediaPlayback: False
-      EnterpriseAuthentication: False
   metroTargetDeviceFamilies:
     Desktop: False
     Holographic: False
@@ -1120,7 +1120,7 @@ PlayerSettings:
   cloudProjectId: 68966d6c-ceb8-4d74-b25a-efea45b51185
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: ARSborcaRobotov 2026-01-26_14-30-04
+  projectName: 
   organizationId: patrinaaav-4
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 1
