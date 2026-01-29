@@ -122,7 +122,6 @@ public class EnhancedStepByStep : MonoBehaviour
         if (!isInitialized || stepObjects.Length == 0) return;
 
         Debug.Log($"--- СЛЕДУЮЩИЙ ШАГ (текущий: {currentIndex + 1}, всего: {stepObjects.Length}) ---");
-
         // Если мы в самом начале (ничего не показано)
         if (currentIndex == -1)
         {
@@ -266,7 +265,6 @@ public class EnhancedStepByStep : MonoBehaviour
             HideStep(i);
         }
     }
-
     void UpdateUI()
     {
         // Обновляем кнопки
