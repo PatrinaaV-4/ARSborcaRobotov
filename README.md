@@ -88,7 +88,7 @@ Android-устройство версии 6.0+
 text
 AR-Robot-Assembly/
 ├── Assets/
-│   ├── Scripts/           # C# скрипты логики приложения
+│ ├── Scripts/           # C# скрипты логики приложения
 │   ├── Models/           # 3D-модели деталей робота
 │   ├── Materials/        # Текстуры и материалы
 │   ├── Scenes/          # Сцены Unity
