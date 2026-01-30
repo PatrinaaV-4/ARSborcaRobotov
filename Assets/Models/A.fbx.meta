@@ -3,7 +3,12 @@ guid: 3c3dcbb005cbed4489819256c6f9a0ab
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: sweeper
+    second: {fileID: 2100000, guid: 98a0ece68020a1040859f99ebb77efac, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
