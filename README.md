@@ -61,7 +61,7 @@ Android-устройство версии 8.0+
 
 Установка:
 
-Ссылка на скачку : https://disk.yandex.ru/client/disk](https://disk.yandex.ru/d/j4TaRI_PU1YdNw
+Ссылка на скачку : https://disk.yandex.ru/d/j4TaRI_PU1YdNw
 
 Скачайте APK-файл из раздела Releases
 
